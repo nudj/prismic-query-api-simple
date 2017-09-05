@@ -1,0 +1,33 @@
+{
+  "name": "prismic-query-api-simple",
+  "version": "0.0.1",
+  "description": "Simple package to query Prismic API",
+  "engines": {
+    "node": ">=7.6.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nudj/prismic-query-api-simple.git"
+  },
+  "keywords": [
+    "prismic",
+    "api"
+  ],
+  "contributors": [
+    {
+      "name": "nudj tech",
+      "email": "tech@nudj.co"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^10.0.3"
+  },
+  "dependencies": {
+    "prismic-javascript": "^1.3.0"
+  }
+}
